@@ -1,7 +1,6 @@
-<css>
+<style>
 body {
-   background-image: linear-gradient(140deg, rgb(255,1,205), rgb(0,237,255));
-    height: 1000px;
+    background-image: url('https://cdn.glitch.global/864ed4f6-0db2-45e8-928f-c5fb17513b6e/LESBIANFLAG.png?v=1681754990707');
 }
 h1{
   float: right;
@@ -69,4 +68,4 @@ h4 {
   
 }
 
-</css>
+</style>
