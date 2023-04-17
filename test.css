@@ -66,3 +66,9 @@ h4 {
   color: #3c9eca;
   
 }
+table, th, td {
+  border:1px solid #b6fbeb;
+}
+th, td {
+  border-style: dashed;
+}
